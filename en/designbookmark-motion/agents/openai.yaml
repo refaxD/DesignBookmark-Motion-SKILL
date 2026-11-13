@@ -1,0 +1,4 @@
+interface:
+  display_name: "DesignBookmark Motion"
+  short_description: "Find and integrate animated UI components"
+  default_prompt: "Use $designbookmark-motion to find a component for my task and integrate it into my project."
