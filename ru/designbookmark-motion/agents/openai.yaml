@@ -1,0 +1,4 @@
+interface:
+  display_name: "DesignBookmark Motion"
+  short_description: "Подбор и перенос анимированных компонентов в проект"
+  default_prompt: "Используй $designbookmark-motion, чтобы подобрать компонент для моей задачи и добавить его в проект."
